@@ -1,9 +1,9 @@
 # Hi there, I'm Piyush Gupta 👋
 
-<h3 align="center">📱 React Native Developer • 🤖 Agentic AI Engineer</h3>
+<h3 align="center">📱 React Native Developer • 🤖 Agentic AI Engineer • 🌐 Website Developer </h3>
 
 <p align="center">
-Building intelligent mobile applications powered by AI using <strong>React Native</strong>, <strong>Agentic AI</strong>, <strong>LangGraph</strong>, <strong>Model Context Protocol (MCP)</strong>, <strong>FastAPI</strong>, and modern LLM technologies.
+Building intelligent Website and mobile applications powered by AI using <strong>React Native</strong>, <strong>Agentic AI</strong>, <strong>LangGraph</strong>, <strong>Model Context Protocol (MCP)</strong>, <strong>FastAPI</strong>, and modern LLM technologies.
 </p>
 
 ---
@@ -12,7 +12,7 @@ Building intelligent mobile applications powered by AI using <strong>React Nativ
 
 I'm a **Computer Science & Engineering** student passionate about building **high-performance mobile applications** and **intelligent AI-powered systems** that solve real-world problems.
 
-My expertise lies in **React Native Mobile Application Development** and **Agentic AI Engineering**, where I build scalable mobile applications integrated with **AI Agents**, **Large Language Models (LLMs)**, and cloud technologies.
+My expertise lies in **React Native Mobile Application Development** , **Website Development** and **Agentic AI Engineering**, where I build scalable mobile applications integrated with **AI Agents**, **Large Language Models (LLMs)**, and cloud technologies.
 
 I'm passionate about transforming innovative ideas into production-ready applications while continuously exploring modern AI technologies, DevOps practices, and scalable software architecture.
 
@@ -26,9 +26,7 @@ I'm passionate about transforming innovative ideas into production-ready applica
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
@@ -40,7 +38,6 @@ I'm passionate about transforming innovative ideas into production-ready applica
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -71,8 +68,9 @@ I'm passionate about transforming innovative ideas into production-ready applica
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -89,7 +87,6 @@ I'm passionate about transforming innovative ideas into production-ready applica
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -110,32 +107,6 @@ I'm passionate about transforming innovative ideas into production-ready applica
 
 ---
 
-# 🛠 Featured Projects
-
-## 🚗 Predictive Parking Marketplace
-
-An AI-powered mobile application that predicts parking availability in real time, enabling users to discover, reserve, and navigate to available parking spaces efficiently.
-
-**Tech Stack:** React Native • Expo • TypeScript • Firebase • AI
-
----
-
-## 🤖 AI Chatbot with Agentic AI
-
-An intelligent AI assistant capable of reasoning, tool calling, and workflow automation using LangGraph, Model Context Protocol (MCP), FastAPI, and local LLMs.
-
-**Tech Stack:** FastAPI • LangGraph • MCP • Ollama • Python
-
----
-
-## 🍔 FoodHub
-
-A cross-platform food delivery application focused on providing a seamless ordering experience with a clean and intuitive mobile interface.
-
-**Tech Stack:** React Native • Firebase
-
----
-
 # 🌍 Open Source
 
 I actively contribute to open-source projects and enjoy collaborating with developers worldwide to build impactful software and strengthen the developer ecosystem.
@@ -151,7 +122,8 @@ I actively contribute to open-source projects and enjoy collaborating with devel
 
 - 🤖 Agentic AI
 - 📱 React Native Applications
-- 🛠 Developer Tools
+- 🌐 Interactive Website Applications 
+- 🛠  Developer Tools
 - 🌐 Community-Driven Open Source Projects
 
 ---
@@ -160,6 +132,7 @@ I actively contribute to open-source projects and enjoy collaborating with devel
 
 - 🥈 Finalist — Escape Da Vinci Hackathon (CGC Mohali)
 - 🥈 Finalist — HaXplore Hackathon (IIT BHU)
+- 🥈 Top 15 Teams - SBI Hackathon 2026 (SBI)
 - 🚀 Internal Round Qualifier — Smart India Hackathon 2024 & 2025
 - 🚗 Participant — Volkswagen Mobillothon
 - 💯 Successfully completed the GeeksforGeeks 60-Day Problem of the Day Challenge
@@ -169,7 +142,7 @@ I actively contribute to open-source projects and enjoy collaborating with devel
 # 🌟 Leadership & Community
 
 - 🚀 Founder — CampusXcelerate
-- 💚 GeeksforGeeks Campus Mantri
+- 💚 Campus Mantri — GeeksforGeeks ( Dec 2024 - present)
 - 🎯 Former Campus Ambassador — E-Cell IIT Bombay
 
 Passionate about building technical communities, organizing learning initiatives, mentoring peers, and encouraging collaborative innovation.
@@ -181,7 +154,8 @@ Passionate about building technical communities, organizing learning initiatives
 - 📜 Career Essentials in Generative AI — Microsoft & LinkedIn
 - 📜 Career Essentials in Git & GitHub — GitHub
 - 📜 Git & GitHub: From Basic to Advanced — GeeksforGeeks
-- 📜 McKinsey Forward Professional Growth Program
+- 📜 Soft Skills Course Online - Complete Professional Development Training - GeeksforGeeks
+- 📜 Cloud Technical Series - AI in Action - Google
 
 ---
 
