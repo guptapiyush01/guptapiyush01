@@ -1,9 +1,9 @@
 # Hi there, I'm Piyush Gupta 👋
 
-<h3 align="center">📱 React Native Developer • 🤖 Agentic AI Engineer • 🌐 Website Developer </h3>
+<h3 align="center">📱 React Native Developer • 🤖 Agentic AI Engineer </h3>
 
 <p align="center">
-Building intelligent Website and mobile applications powered by AI using <strong>React Native</strong>, <strong>Agentic AI</strong>, <strong>LangGraph</strong>, <strong>Model Context Protocol (MCP)</strong>, <strong>FastAPI</strong>, and modern LLM technologies.
+Building intelligent mobile applications powered by AI using <strong>React Native</strong>, <strong>Agentic AI</strong>, <strong>LangGraph</strong>, <strong>Model Context Protocol (MCP)</strong>, <strong>FastAPI</strong>, and modern LLM technologies.
 </p>
 
 ---
@@ -12,7 +12,7 @@ Building intelligent Website and mobile applications powered by AI using <strong
 
 I'm a **Computer Science & Engineering** student passionate about building **high-performance mobile applications** and **intelligent AI-powered systems** that solve real-world problems.
 
-My expertise lies in **React Native Mobile Application Development** , **Website Development** and **Agentic AI Engineering**, where I build scalable mobile applications integrated with **AI Agents**, **Large Language Models (LLMs)**, and cloud technologies.
+My expertise lies in **React Native Mobile Application Development** and **Agentic AI Engineering**, where I build scalable mobile applications integrated with **AI Agents**, **Large Language Models (LLMs)**, and cloud technologies.
 
 I'm passionate about transforming innovative ideas into production-ready applications while continuously exploring modern AI technologies, DevOps practices, and scalable software architecture.
 
@@ -24,7 +24,6 @@ I'm passionate about transforming innovative ideas into production-ready applica
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
