@@ -52,7 +52,6 @@ I'm passionate about transforming innovative ideas into production-ready applica
 ![AI Agents](https://img.shields.io/badge/AI_Agents-8E44AD?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-MCP-blue?style=for-the-badge)
 ![FastMCP](https://img.shields.io/badge/FastMCP-6E40C9?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
