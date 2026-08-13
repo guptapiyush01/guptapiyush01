@@ -54,27 +54,59 @@ I approach projects with a **product engineering mindset**: understand the probl
 
 ## Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=java" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=js" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=python" width="52" height="52"/>
+
+</div>
 
 ## Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,redux,html,css" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=redux" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=html" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=css" width="52" height="52"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+
+</div>
 
 ## Backend & Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,postgresql,firebase" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=postgresql" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="52" height="52"/>
+
+</div>
 
 ## Cloud, DevOps & Tooling
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,github,linux,vscode,androidstudio,figma" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=gcp" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=docker" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=git" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=github" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=linux" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" width="52" height="52"/>
+<img src="https://skillicons.dev/icons?i=figma" width="52" height="52"/>
+
+</div>
 
 ---
 
@@ -171,7 +203,7 @@ The project reflects a product-oriented approach to mobile application engineeri
 
 A comprehensive political-information application currently under development, designed to provide structured and accessible information about **politicians across India** through a centralized digital platform.
 
-The goal is to create a reliable roster where users can explore politicians and access relevant public information such as **name, political party, constituency, state, political position, career background, public roles, election information, and other publicly available political details**.
+The goal is to create a centralized roster where users can explore politicians and access relevant publicly available information such as **name, political party, constituency, state, political position, career background, public roles, election information, and other political details**.
 
 | Metric | Details |
 |---|---|
@@ -195,7 +227,7 @@ The goal is to create a reliable roster where users can explore politicians and 
 - Organized political data for easier discovery
 - Scalable architecture for continuously expanding the database
 
-The project focuses on building a **structured, searchable, and user-friendly political information layer** rather than presenting political information through fragmented sources.
+The project focuses on building a **structured, searchable, and user-friendly political information platform** that brings publicly available political information together in one place.
 
 </details>
 
@@ -337,35 +369,11 @@ Contributing to the developer community through campus-level technical initiativ
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=piyushgupta-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushgupta-dev&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Piyush%20Gupta%20%E2%80%94%20Contribution%20Activity"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushgupta-dev/piyushgupta-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushgupta-dev/piyushgupta-dev/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/piyushgupta-dev/piyushgupta-dev/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
