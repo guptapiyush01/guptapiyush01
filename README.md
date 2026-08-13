@@ -1,190 +1,391 @@
-# Hi there, I'm Piyush Gupta 👋
+<div align="center">
 
-<h3 align="center">📱 React Native Developer • 🤖 Agentic AI Engineer </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=PIYUSH%20GUPTA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20React%20Native%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI+Engineering;React+Native+%7C+Full+Stack+Development;Agentic+AI+%7C+LangGraph+%7C+MCP;Building+Production-Ready+Intelligent+Applications" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech%20Computer%20Science%20%26%20Engineering-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native%20Developer-6D28D9?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI%20Engineer-312E81?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://portfolio.piyushgupta.workers.dev/">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/piyushgupta-dev">
+<img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:piyushgupta140206@gmail.com">
+<img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/piyushgupta-dev">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=piyushgupta-dev&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/piyushgupta-dev?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
+<img src="https://img.shields.io/github/stars/piyushgupta-dev?label=STARS&style=for-the-badge&color=312E81"/>
+
+</div>
+
+---
+
+# About
+
+I'm a **Computer Science & Engineering student and software engineer focused on building production-ready digital products, intelligent mobile applications, and AI-powered systems**.
+
+My primary engineering focus is **React Native application development**, supported by full-stack engineering, backend APIs, cloud services, databases, and modern AI architectures. I build applications with an emphasis on **performance, maintainability, scalability, security, and practical user experience**.
+
+On the AI side, I work with **Agentic AI, Large Language Models, LangGraph, LangChain, Model Context Protocol (MCP), FastMCP, prompt engineering, multi-agent systems, and modern LLM tooling**.
+
+I approach projects with a **product engineering mindset**: understand the problem, design the system, build the experience, integrate intelligence, optimize the architecture, and continuously improve the product.
+
+---
+
+# Tech Stack
+
+## Languages
 
 <p align="center">
-Building intelligent mobile applications powered by AI using <strong>React Native</strong>, <strong>Agentic AI</strong>, <strong>LangGraph</strong>, <strong>Model Context Protocol (MCP)</strong>, <strong>FastAPI</strong>, and modern LLM technologies.
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+</p>
+
+## Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,redux,html,css" />
+</p>
+
+## Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,postgresql,firebase" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,github,linux,vscode,androidstudio,figma" />
 </p>
 
 ---
 
-# 🚀 About Me
+# AI / ML Expertise
 
-I'm a **Computer Science & Engineering** student passionate about building **high-performance mobile applications** and **intelligent AI-powered systems** that solve real-world problems.
-
-My expertise lies in **React Native Mobile Application Development** and **Agentic AI Engineering**, where I build scalable mobile applications integrated with **AI Agents**, **Large Language Models (LLMs)**, and cloud technologies.
-
-I'm passionate about transforming innovative ideas into production-ready applications while continuously exploring modern AI technologies, DevOps practices, and scalable software architecture.
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Domain | Proficiency | Details |
+|---|---|---|
+| Agentic AI | Intermediate | Designing AI-driven workflows and intelligent application architectures |
+| Large Language Models | Intermediate | LLM-powered application development, orchestration, and integration |
+| LangGraph | Intermediate | Stateful AI workflows and graph-based agent orchestration |
+| LangChain | Intermediate | LLM application development and tool integration |
+| Model Context Protocol | Intermediate | MCP-based context and tool connectivity |
+| Multi-Agent Systems | Intermediate | Designing collaborative agent workflows |
+| Prompt Engineering | Intermediate | Structured prompting and reliable LLM interaction patterns |
+| FastMCP | Intermediate | Building MCP-oriented AI services and integrations |
+| Ollama | Intermediate | Local LLM experimentation and development |
+| OpenAI | Intermediate | AI application and LLM integration |
+| Google Gemini | Intermediate | Generative AI experimentation and application development |
 
 ---
 
-## 📱 Mobile Development
+# Featured Projects
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<details>
+<summary><strong>🚗 Predictive Parking Marketplace</strong></summary>
 
----
+### Overview
 
-## ⚙️ Backend Development
+An intelligent parking marketplace designed to predict parking availability, improve parking discovery, and provide users with smarter navigation and trust-oriented parking experiences.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+| Metric | Details |
+|---|---|
+| **Stack** | React Native · Firebase Firestore · Cloud Functions · Google Maps · ARCore / ARKit |
+| **Scale** | Cross-platform mobile architecture |
+| **Performance** | Real-time availability-oriented workflows and location-aware interactions |
+| **Security** | Firebase-backed authentication and controlled cloud data access |
+| **Impact** | Predictive parking discovery, trust scoring, and AR-assisted guidance |
+| **Repository** | [GitHub](https://github.com/piyushgupta-dev) |
 
----
+The system combines mobile development, cloud infrastructure, maps, predictive intelligence, trust mechanisms, and augmented-reality guidance into a unified parking experience.
 
-## 🤖 Agentic AI & LLM Engineering
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-8E44AD?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![FastMCP](https://img.shields.io/badge/FastMCP-6E40C9?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-2ECC71?style=for-the-badge)
+</details>
 
 ---
 
-## ☁️ Cloud & Databases
+<details>
+<summary><strong>🚦 ATOS-X — Smart Traffic Management Platform</strong></summary>
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Overview
 
----
+An AI-powered smart traffic management platform focused on improving urban mobility through intelligent mobile interfaces, AI processing, cloud services, and scalable APIs.
 
-## 🚀 DevOps & Deployment
+| Metric | Details |
+|---|---|
+| **Stack** | React Native · Python AI Engine · Firebase · Node.js |
+| **Scale** | Mobile + AI + cloud architecture |
+| **Performance** | AI-driven traffic processing and responsive mobile workflows |
+| **Security** | Firebase-backed cloud architecture and API-based service separation |
+| **Impact** | Intelligent traffic management and data-driven mobility workflows |
+| **Repository** | [GitHub](https://github.com/piyushgupta-dev) |
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ATOS-X combines a React Native client with an AI processing layer, backend APIs, and cloud infrastructure to create an extensible smart-mobility architecture.
 
----
-
-## 🛠 Development Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+</details>
 
 ---
 
-# 🔥 Currently Working On
+<details>
+<summary><strong>🍔 FoodHub — Food Delivery Platform</strong></summary>
 
-- 📱 Building scalable cross-platform mobile applications with React Native
-- 🤖 Developing Agentic AI applications
-- 🔗 Model Context Protocol (MCP)
-- 🧠 LangGraph-powered AI workflows
-- ⚡ FastAPI backend services
-- 🐳 Docker & Kubernetes
-- ☁️ Firebase & Cloud Integration
-- 🌍 Open Source Contributions
-- 📚 Data Structures & Algorithms for Placements
+### Overview
 
----
+A food-delivery product focused on delivering a modern digital ordering experience with responsive interfaces and application-oriented workflows.
 
-# 🌍 Open Source
+| Metric | Details |
+|---|---|
+| **Stack** | React Native · JavaScript · Firebase |
+| **Scale** | Cross-platform application architecture |
+| **Performance** | Responsive mobile-first user experience |
+| **Security** | Cloud-backed application architecture |
+| **Impact** | Digital food discovery and ordering experience |
+| **Repository** | [GitHub](https://github.com/piyushgupta-dev) |
 
-I actively contribute to open-source projects and enjoy collaborating with developers worldwide to build impactful software and strengthen the developer ecosystem.
+The project reflects a product-oriented approach to mobile application engineering, interface design, cloud integration, and user-centric application workflows.
 
-### Open Source Programs
-
-- 🌟 Contributor — Elite Coders Summer of Code (ECSOC)
-- 🌟 Contributor — Social Summer of Code (SSoC)
-- 🌟 Contributor — GirlScript Summer of Code (GSSoC)
-- 🌟 Contributor — Nexus Spring of Code (NSoC)
-
-### Areas of Contribution
-
-- 🤖 Agentic AI
-- 📱 React Native Applications
-- 🌐 Interactive Website Applications 
-- 🛠  Developer Tools
-- 🌐 Community-Driven Open Source Projects
+</details>
 
 ---
 
-# 🏆 Achievements
+<details>
+<summary><strong>🏛️ Politician Roster — Indian Political Information Platform</strong></summary>
 
-- 🥈 Finalist — Escape Da Vinci Hackathon (CGC Mohali)
-- 🥈 Finalist — HaXplore Hackathon (IIT BHU)
-- 🥈 Top 15 Teams - SBI Hackathon 2026 (SBI)
-- 🚀 Internal Round Qualifier — Smart India Hackathon 2024 & 2025
-- 🚗 Participant — Volkswagen Mobillothon
-- 💯 Successfully completed the GeeksforGeeks 60-Day Problem of the Day Challenge
+### Overview
+
+A comprehensive political-information application currently under development, designed to provide structured and accessible information about **politicians across India** through a centralized digital platform.
+
+The goal is to create a reliable roster where users can explore politicians and access relevant public information such as **name, political party, constituency, state, political position, career background, public roles, election information, and other publicly available political details**.
+
+| Metric | Details |
+|---|---|
+| **Stack** | React Native · Backend APIs · Database |
+| **Scale** | India-wide politician information platform |
+| **Performance** | Searchable and structured information architecture |
+| **Security** | Controlled backend access and structured data management |
+| **Impact** | Makes Indian political information easier to discover, explore, and understand |
+| **Status** | 🚧 Currently Working On |
+| **Repository** | [GitHub](https://github.com/piyushgupta-dev) |
+
+### Core Capabilities
+
+- Comprehensive politician directory covering India
+- Search and discover politicians by name
+- Filter politicians by state and political party
+- View constituency and political-position information
+- Structured politician profiles
+- Public career and political background
+- Election-related information
+- Organized political data for easier discovery
+- Scalable architecture for continuously expanding the database
+
+The project focuses on building a **structured, searchable, and user-friendly political information layer** rather than presenting political information through fragmented sources.
+
+</details>
 
 ---
 
-# 🌟 Leadership & Community
+# Experience
 
-- 🚀 Founder — CampusXcelerate
-- 💚 Campus Mantri — GeeksforGeeks ( Dec 2024 - present)
-- 🎯 Former Campus Ambassador — E-Cell IIT Bombay
+### React Native Developer Intern — AppTechies
+**July 2025 — October 2025**
 
-Passionate about building technical communities, organizing learning initiatives, mentoring peers, and encouraging collaborative innovation.
+Worked as a **React Native Developer Intern** at AppTechies, contributing to mobile application development and gaining hands-on experience with production-oriented React Native engineering.
+
+**Scope**
+
+- Developed and enhanced cross-platform mobile application features
+- Built reusable React Native components and responsive interfaces
+- Worked with API integration and application data flows
+- Debugged and optimized mobile application functionality
+- Collaborated on application development and feature implementation
+- Followed practical software development and version-control workflows
+
+`React Native` `JavaScript` `Mobile Development` `API Integration` `UI Development` `Git`
 
 ---
 
-# 📜 Certifications
+### Founder — CampusXcelerate
+**Ongoing**
 
-- 📜 Career Essentials in Generative AI — Microsoft & LinkedIn
-- 📜 Career Essentials in Git & GitHub — GitHub
-- 📜 Git & GitHub: From Basic to Advanced — GeeksforGeeks
-- 📜 Soft Skills Course Online - Complete Professional Development Training - GeeksforGeeks
-- 📜 Cloud Technical Series - AI in Action - Google
+Building a student-led technical community focused on learning, collaboration, developer initiatives, and technology-driven opportunities.
+
+**Scope**
+
+- Building and coordinating a student technology community
+- Organizing technical learning initiatives
+- Encouraging collaborative development
+- Promoting developer opportunities and challenges
+- Supporting peer learning and technical growth
+
+`Community Building` `Developer Relations` `Leadership` `Technology` `Mentorship`
 
 ---
 
-# 📫 Connect With Me
+### Campus Mantri — GeeksforGeeks
+**December 2024 — Present**
 
-<p align="left">
+Contributing to the developer community through campus-level technical initiatives and student engagement.
 
-<a href="https://www.linkedin.com/in/piyushgupta-dev" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Piyush%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+**Scope**
+
+- Promoting programming and developer initiatives
+- Supporting technical learning activities
+- Encouraging participation in coding challenges
+- Connecting students with developer opportunities
+
+`Developer Community` `Technical Outreach` `Programming` `Community Engagement`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🥈 **Hackathon Finalist** | Escape Da Vinci Hackathon — CGC Mohali |
+| 🥈 **Hackathon Finalist** | HaXplore — IIT BHU |
+| 🏆 **Top 15 Teams** | SBI Hackathon 2026 |
+| 🚀 **Internal Round Qualifier** | Smart India Hackathon 2024 & 2025 |
+| 🚗 **Participant** | Volkswagen Mobillothon |
+| 💯 **Coding Challenge** | Successfully completed GeeksforGeeks 60-Day Problem of the Day Challenge |
+
+</div>
+
+---
+
+# Certifications
+
+### Microsoft & LinkedIn
+
+![Generative AI](https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-6D28D9?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### GitHub
+
+![GitHub](https://img.shields.io/badge/Career%20Essentials%20in%20Git%20%26%20GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)
+
+### GeeksforGeeks
+
+![GFG](https://img.shields.io/badge/Git%20%26%20GitHub%3A%20From%20Basic%20to%20Advanced-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+![GFG](https://img.shields.io/badge/Soft%20Skills%20Course-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+### Google
+
+![Google Cloud](https://img.shields.io/badge/Cloud%20Technical%20Series%20%E2%80%94%20AI%20in%20Action-312E81?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://github.com/piyushgupta-dev" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-piyushgupta--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="mailto:piyushgupta140206@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-piyushgupta140206%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-312E81?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=piyushgupta-dev&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=piyushgupta-dev&theme=tokyonight&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=piyushgupta-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgupta-dev&theme=tokyonight&hide_border=true&layout=compact)
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushgupta-dev&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgupta-dev&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117"/>
+
+</div>
 
 ---
 
-<h3 align="center">⭐ Building the future of Mobile Applications with Agentic AI ⭐</h3>
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=piyushgupta-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushgupta-dev&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Piyush%20Gupta%20%E2%80%94%20Contribution%20Activity"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushgupta-dev/piyushgupta-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushgupta-dev/piyushgupta-dev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/piyushgupta-dev/piyushgupta-dev/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Advanced Agentic AI
+
+Building:
+  - React Native Applications
+  - Politician Roster Platform
+
+Exploring:
+  - Multi-Agent Systems
+  - MCP & LLM Infrastructure
+
+Open To:
+  - Software Engineering
+  - AI Engineering
