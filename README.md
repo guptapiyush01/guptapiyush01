@@ -349,13 +349,23 @@ Contributing to the developer community through campus-level technical initiativ
 
 ---
 
+---
+
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=piyushgupta-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117"/>
+<a href="https://github.com/piyushgupta-dev">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=piyushgupta-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117"/>
+
+</a>
+
+<a href="https://github.com/piyushgupta-dev">
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushgupta-dev&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+
+</a>
 
 </div>
 
@@ -363,7 +373,11 @@ Contributing to the developer community through campus-level technical initiativ
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgupta-dev&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117"/>
+<a href="https://github.com/piyushgupta-dev">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=piyushgupta-dev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117"/>
+
+</a>
 
 </div>
 
