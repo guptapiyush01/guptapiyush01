@@ -42,7 +42,7 @@
 
 I'm a **Computer Science & Engineering student and software engineer focused on building production-ready digital products, intelligent mobile applications, and AI-powered systems**.
 
-My primary engineering focus is **React Native application development**, supported by full-stack engineering, backend APIs, cloud services, databases, and modern AI architectures. I build applications with an emphasis on **performance, maintainability, scalability, security, and practical user experience**.
+My primary engineering focus is **React Native application development**, supported by backend APIs, cloud services, databases, and modern AI architectures. I build applications with an emphasis on **performance, maintainability, scalability, security, and practical user experience**.
 
 On the AI side, I work with **Agentic AI, Large Language Models, LangGraph, LangChain, Model Context Protocol (MCP), FastMCP, prompt engineering, multi-agent systems, and modern LLM tooling**.
 
