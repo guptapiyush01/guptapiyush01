@@ -110,21 +110,14 @@ I approach projects with a **product engineering mindset**: understand the probl
 
 ---
 
-# AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Agentic AI | Intermediate | Designing AI-driven workflows and intelligent application architectures |
-| Large Language Models | Intermediate | LLM-powered application development, orchestration, and integration |
-| LangGraph | Intermediate | Stateful AI workflows and graph-based agent orchestration |
-| LangChain | Intermediate | LLM application development and tool integration |
-| Model Context Protocol | Intermediate | MCP-based context and tool connectivity |
-| Multi-Agent Systems | Intermediate | Designing collaborative agent workflows |
-| Prompt Engineering | Intermediate | Structured prompting and reliable LLM interaction patterns |
-| FastMCP | Intermediate | Building MCP-oriented AI services and integrations |
-| Ollama | Intermediate | Local LLM experimentation and development |
-| OpenAI | Intermediate | AI application and LLM integration |
-| Google Gemini | Intermediate | Generative AI experimentation and application development |
+| **AI & LLMs** | Intermediate | Agentic AI, Large Language Models, Prompt Engineering, OpenAI, Google Gemini, Ollama |
+| **AI Frameworks & Orchestration** | Intermediate | LangChain, LangGraph, Stateful AI workflows, graph-based agent orchestration |
+| **AI Agents & Protocols** | Intermediate | Multi-Agent Systems, Model Context Protocol (MCP), FastMCP, collaborative agent workflows, tool/context connectivity |
+| **AI Application Development** | Intermediate | Designing AI-driven workflows, intelligent application architectures, LLM-powered application development, orchestration & integration |
 
 ---
 
