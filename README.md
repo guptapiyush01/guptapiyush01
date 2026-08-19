@@ -334,10 +334,6 @@ Contributing to the developer community through campus-level technical initiativ
 <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-312E81?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
 </div>
 
 ---
