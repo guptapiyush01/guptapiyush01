@@ -399,5 +399,4 @@ Exploring:
 
 Open To:
   - Software Engineering
-  - AI Engineering
-  - Ractnative App Development 
+  - AI Engineering 
