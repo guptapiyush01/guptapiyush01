@@ -270,7 +270,7 @@ AI-powered smart traffic management platform designed to improve urban mobility 
 <div align="center">
 
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=piyushgupta-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=F5A623&icon_color=14B8A6&text_color=F5F1E8&bg_color=0B1220"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushgupta-dev&hide_border=true&background=0B1220&ring=F5A623&fire=14B8A6&currStreakLabel=14B8A6"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushgupta-dev&hide_border=true&background=0B1220&ring=F5A623&fire=14B8A6&currStreakLabel=14B8A6&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 <br/>
 
