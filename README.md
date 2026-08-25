@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/5-Products%20Shipped-0B1B2B?style=for-the-badge&labelColor=14B8A6"/>
 <img src="https://img.shields.io/badge/3-Internships%20%2F%20Leadership%20Roles-0B1B2B?style=for-the-badge&labelColor=F5A623"/>
 <img src="https://img.shields.io/badge/1000%2B-Teams%20Outranked%20(Escape%20Da%20Vinci)-0B1B2B?style=for-the-badge&labelColor=FF6F61"/>
-<img src="https://img.shields.io/badge/4-OSS%20Programs%20(ECSOC%2C%20GSSoC%2C%20SSCoC%2C%20NSoC)-0B1B2B?style=for-the-badge&labelColor=14B8A6"/>
+<img src="https://img.shields.io/badge/4-OSS%20Programs%20(ECSOC%2C%20GSSoC%2C%20SSoC%2C%20NSoC)-0B1B2B?style=for-the-badge&labelColor=14B8A6"/>
 
 </div>
 
