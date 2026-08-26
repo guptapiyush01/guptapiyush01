@@ -50,7 +50,7 @@ My primary focus is **React Native application development**: performant, mainta
 > *"Understand the problem, design the system, build the experience, integrate intelligence, ship, iterate — repeat."*
 
 **Recognized at:**
-<img src="https://img.shields.io/badge/IIT%20(BHU)-114B5F?style=flat-square"/> <img src="https://img.shields.io/badge/CGC%20University%20Mohali-114B5F?style=flat-square"/> <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-114B5F?style=flat-square"/> <img src="https://img.shields.io/badge/Volkswagen%20Mobillothon-114B5F?style=flat-square"/>
+<img src="https://img.shields.io/badge/IIT%20(BHU)-114B5F?style=flat-square"/> <img src="https://img.shields.io/badge/CGC%20University%20Mohali-114B5F?style=flat-square"/> <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-114B5F?style=flat-square"/>
 
 <br/>
 
