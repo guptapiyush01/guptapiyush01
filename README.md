@@ -43,7 +43,7 @@
 
 <a id="about"></a>
 
-I'm a **Computer Science & Engineering student, React Native developer, and Agentic AI engineer** who builds full products, not just features — the mobile app, the backend it talks to, and increasingly, the AI layer that makes it smart.
+I'm a **Computer Science & Engineering student, React Native developer, and Agentic AI developer** who builds full products, not just features — the mobile app, the backend it talks to, and increasingly, the AI layer that makes it smart.
 
 My primary focus is **React Native application development**: performant, maintainable, cross-platform apps backed by real APIs, cloud infrastructure, and databases. Alongside that, I build **agentic AI systems** — LangChain / LangGraph pipelines, Retrieval-Augmented Generation, Model Context Protocol (MCP) tooling, and multi-agent workflows — and wire the two together so intelligence isn't bolted on, it's part of the product.
 
