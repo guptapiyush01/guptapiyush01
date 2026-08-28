@@ -277,7 +277,6 @@ AI-powered smart traffic management platform designed to improve urban mobility 
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushgupta-dev&bg_color=0B1220&color=14B8A6&line=F5A623&point=F5F1E8&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 <br/>
 
