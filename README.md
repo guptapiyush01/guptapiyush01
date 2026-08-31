@@ -43,9 +43,11 @@
 
 <a id="about"></a>
 
-I'm a **Computer Science & Engineering student, React Native developer, and Agentic AI developer** who builds full products, not just features — the mobile app, the backend it talks to, and increasingly, the AI layer that makes it smart.
+I'm a **B.Tech Computer Science & Engineering student, React Native developer, and Agentic AI developer**, currently studying at Seth Jai Prakash Mukand Lal Institute of Engineering & Technology, Radaur (since 08/2023). I build full products, not just features — the mobile app, the backend it talks to, and increasingly, the AI layer that makes it smart.
 
 My primary focus is **React Native application development**: performant, maintainable, cross-platform apps backed by real APIs, cloud infrastructure, and databases. Alongside that, I build **agentic AI systems** — LangChain / LangGraph pipelines, Retrieval-Augmented Generation, Model Context Protocol (MCP) tooling, and multi-agent workflows — and wire the two together so intelligence isn't bolted on, it's part of the product.
+
+Over the past year that's meant shipping a real-time messaging app to production, architecting an agentic RAG backend over political data, leading a student tech community, and representing GeeksforGeeks on campus — all while treating every internship, hackathon, and side project as a chance to close the gap between "I can build a feature" and "I can ship a system."
 
 > *"Understand the problem, design the system, build the experience, integrate intelligence, ship, iterate — repeat."*
 
@@ -136,7 +138,7 @@ graph LR
 <a id="experience"></a>
 
 ### 🤖 Agentic AI Developer Intern — Codenoids
-![Jun 2026 – Sep 2026](https://img.shields.io/badge/Jun%202026%20–%20Sep%202026-Hybrid-14B8A6?style=flat-square)
+![Jun 2026 – Aug 2026](https://img.shields.io/badge/Jun%202026%20–%20Aug%202026-Hybrid-14B8A6?style=flat-square)
 
 - Engineered an autonomous Agentic AI backend (Python, LangChain, LangGraph) to process, verify, and analyze complex political data — historical actions and public statements
 - Deployed a Retrieval-Augmented Generation (RAG) pipeline using Ollama and vector embeddings, integrated with mobile workflows for real-time, context-aware responses
@@ -157,9 +159,9 @@ graph LR
 - Founded and lead a student-led technical community — workshops, hackathons, and networking with partner communities to grow technical learning
 
 ### 🌐 Community Manager — Elite Coders
-![Apr 2026 – Present](https://img.shields.io/badge/Apr%202026%20–%20Present-Yamunanagar%2C%20India-14B8A6?style=flat-square)
+![july 2026 – Aug 2026](https://img.shields.io/badge/Apr%202026%20–%20Aug%202026-Yamunanagar%2C%20India-14B8A6?style=flat-square)
 
-- Manage community engagement and technical initiatives across LinkedIn, WhatsApp, and Discord — collaboration, knowledge sharing, member participation
+- Managed community engagement and technical initiatives across LinkedIn, WhatsApp, and Discord — collaboration, knowledge sharing, member participation
 
 ### 🧑‍💻 Campus Mantri — GeeksforGeeks
 ![Dec 2024 – Present](https://img.shields.io/badge/Dec%202024%20–%20Present-Noida%2C%20India-F5A623?style=flat-square)
@@ -308,11 +310,10 @@ AI-powered smart traffic management platform designed to improve urban mobility 
 
 <a href="https://portfolio.piyushgupta.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/piyushgupta-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:piyushgupta140206@gmail.com"><img src="https://img.shields.io/badge/Email-F5A623?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:piyushgupta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-F5A623?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/piyushgupta-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 <sub>Thanks for scrolling all the way down — now go build something. 🚀</sub>
 
 </div>
-
