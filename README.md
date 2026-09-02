@@ -45,7 +45,7 @@
 
 I'm a **B.Tech Computer Science & Engineering student, React Native developer, and Agentic AI developer**, currently studying at Seth Jai Prakash Mukand Lal Institute of Engineering & Technology, Radaur (since 08/2023). I build full products, not just features — the mobile app, the backend it talks to, and increasingly, the AI layer that makes it smart.
 
-My primary focus is **React Native application development**: performant, maintainable, cross-platform apps backed by real APIs, cloud infrastructure, and databases. Alongside that, I build **agentic AI systems** — LangChain / LangGraph pipelines, Retrieval-Augmented Generation, Model Context Protocol (MCP) tooling, and multi-agent workflows — and wire the two together so intelligence isn't bolted on, it's part of the product.
+My primary focus is **React Native application development**: performant, maintainable, cross-platform apps backed by real APIs, cloud infrastructure, and databases. Alongside that, I build **Agentic AI systems** — LangChain / LangGraph pipelines, Retrieval-Augmented Generation, Model Context Protocol (MCP) tooling, and multi-agent workflows — and wire the two together so intelligence isn't bolted on, it's part of the product.
 
 Over the past year that's meant shipping a real-time messaging app to production, architecting an agentic RAG backend over political data, leading a student tech community, and representing GeeksforGeeks on campus — all while treating every internship, hackathon, and side project as a chance to close the gap between "I can build a feature" and "I can ship a system."
 
